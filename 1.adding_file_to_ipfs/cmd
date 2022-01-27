@@ -1,0 +1,2 @@
+ipfs add hello.txt
+ipfs object get QmTZPuZ9C2RGKJfcJTj1XPAT7xuCUPJhAGXSiHDDiHcPYp
